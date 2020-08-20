@@ -58,7 +58,19 @@
                 "colorScheme": "One Half Dark",
                 "source": "Windows.Terminal.Wsl",
                 "startingDirectory": "//wsl$/Ubuntu-20.04/home/dpalma",
-                "icon": "E:/Users/dpalma/Pictures/ubuntu_14143.png"
+                "icon": "E:/Users/dpalma/Pictures/ubuntu_14143.png",
+                "useAcrylic": true,
+                "acrylicOpacity": 0.9,
+                "backgroundImage": "E:/Users/dpalma/Pictures/thumb-1920-320424.jpg",              
+                "backgroundImageOpacity": 0.1
+            },
+            {
+                "guid": "{c6eaf9f4-32a7-5fdc-b5cf-066e8a4b1e40}",
+                "hidden": false,
+                "name": "Ubuntu-18.04",
+                "source": "Windows.Terminal.Wsl",
+                "backgroundImage": "E:/Users/dpalma/Pictures/thumb-1920-320439.jpg",
+                "backgroundImageOpacity": 0.3
             }
         ]
     },
